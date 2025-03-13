@@ -1,13 +1,18 @@
-## Hi there 👋
+## Hi, I'm Van Paul! 👋
+
 ```json
 {
-  "languages: ["TypeScript/JavaScript", "Python", "SQL"]
+  "languages": ["TypeScript/JavaScript", "Python", "SQL"],
+  "technologies": ["Git", "Linux", "NodeJS", "ReactJS", "SQLite", "MySQL", "Docker"],
+  "services": {
+    "cloudflare": ["Workers/Pages", "R2", "D1"],
+    "oracle": ["VPS"],
+    "aws": ["lambda"]
+  }
 }
 ```
-<!--
-Technologies: Git, Linux, NodeJS, ReactJS, SQLite, MySQL, Docker
-Services: Cloudflare (Workers, R2, D1), Oracle Cloud, Vercel, AWS (Lambda)
 
+<!--
 **p0lbang/p0lbang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
